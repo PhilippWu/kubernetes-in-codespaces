@@ -50,7 +50,9 @@
 		"davidanson.vscode-markdownlint",
 		"gruntfuggly.todo-tree",
 		"mutantdino.resourcemonitor",
-		"humao.rest-client"
+		"humao.rest-client",
+		"GitHub.copilot",
+		"GitHub.copilot-chat"
 	],
 
 	// Use 'onCreateCommand' to run commands as part of container creation.
